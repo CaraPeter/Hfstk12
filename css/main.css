@@ -1,0 +1,95 @@
+h1{
+    color:red;
+}
+table{
+    text-align: center;overflow:hidden;
+    border: 2px solid black; 
+    table-layout: fixed;
+    width: 100%;      
+}
+thead,tfoot{
+    background-color: blue;
+    opacity: 0.5;
+    color: aliceblue;
+    font-size: 125%;
+    line-height: 150%;
+    column-width: 300px;
+    border: 2px solid black; 
+}
+tbody{
+    background-color: red;
+    border: 2px solid black;
+}
+img{
+    width: 200px;
+    height:125px;
+    padding: 3px;
+    border: 2px solid black;
+}
+img:hover{
+    padding: 0px;
+    border: 4px solid black;
+}
+#vak11{
+    background-color: yellow;
+    color:purple;
+}
+#vak12{
+    background-color: rgb(253, 253, 199);
+
+}
+#vak13{
+    background-color: darkgreen;
+    color:white;
+}
+#vak14{
+    background-color: rgb(67, 98, 67);
+    
+}
+#vak21{
+    background-color: red;
+    color:whitesmoke;
+}
+#vak22{
+    background-color: rgb(255, 175, 175);
+    
+}
+#vak23{
+    background-color: hotpink;
+    color:ivory;
+}
+#vak24{
+    background-color: pink;
+    
+}
+#vak31{
+    background-color: orange;
+    color:mintcream;
+}
+#vak32{
+    background-color: rgb(255, 231, 187);
+
+}
+#vak33{
+    background-color: blue;
+    color:honeydew;
+}
+#vak34{
+    background-color: rgb(182, 182, 254);
+
+}
+#vak41{
+    background-color: green;
+    color:oldlace;
+}
+#vak42{
+    background-color: rgb(97, 131, 97);
+}
+#vak43{
+    background-color: purple;
+    color:aliceblue;
+}
+#vak44{
+    background-color: rgb(133, 95, 133);
+
+}
